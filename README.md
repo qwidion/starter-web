@@ -3,6 +3,7 @@
 TZZThis repository is for showing how Git and GitHub work
 
 ## Introductions
+more stuff.. copyright
 Another
 ## Deployment
 
